@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 import json
 import plotly.express as px
 
-# --- Sayfa Yapılandırması ---
+# ---- Sayfa Yapılandırması ----
 st.set_page_config(layout="wide", page_title="Türkiye Veri Portalı")
 
 # --- Veri Yükleme ve Zenginleştirme ---
